@@ -1,9 +1,5 @@
 ## - Servidor para consumo de rotas CRUD <br>
 
-> Resultado do Portifólio finalizado:
-- https://kain-prog.github.io/
-
-
 ### Tecnologia usada:
 
 - NodeJs
